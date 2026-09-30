@@ -15,7 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+
+      # Runs before snk: snk's Docker container creates dist/ as root otherwise,
+      # and this step could not write into it.
+      - name: Generate contribution graph
+        run: node scripts/contribution-graph.mjs "${{ github.repository_owner }}" dist/contribution-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate snake SVGs from the contribution calendar
         uses: Platane/snk@v3
@@ -24,11 +31,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Generate contribution graph
-        run: node scripts/contribution-graph.mjs "${{ github.repository_owner }}" dist/contribution-graph.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v4
