@@ -80,7 +80,7 @@ I use Claude Code as part of my development workflow.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafiadli719&bg_color=0d1117&color=58a6ff&title_color=58a6ff&line=1f6feb&point=58a6ff&radius=8" alt="Rafi Adli Pradiansyah's contribution graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/rafiadli719/rafiadli719/output/contribution-graph.svg" alt="Rafi Adli Pradiansyah's contribution graph" />
 </p>
 
 <p align="center">
