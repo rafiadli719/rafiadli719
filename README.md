@@ -1,16 +1,11 @@
-<h1 align="center">Rafi Adli Pradiansyah</h1>
-
 <p align="center">
-  I build internal web applications for the daily operations of a multi-branch motorcycle workshop:<br/>
-  service workflows, cashier closing, vehicle inspections, and IT project intake.
+  <img src="assets/banner.svg" width="100%" alt="Rafi Adli Pradiansyah — builds internal web apps, PWAs, data sync, and WhatsApp AI agents" />
 </p>
-
-<br/>
 
 ## 👋 About
 
-Most of my repositories are internal tools for **FIT MOTOR**, built around problems the team runs into every day:
-branch cashiers closing out their day, mechanics inspecting a motorcycle before a service, customer service staff identifying a customer's bike type, divisions requesting work from IT.
+Most of my repositories are internal tools for **FIT MOTOR**, a multi-branch motorcycle workshop, built around problems the team runs into every day:
+branch cashiers closing out their day, mechanics inspecting a motorcycle before a service, customer service staff identifying a customer's bike type, customers booking a service, divisions requesting work from IT.
 
 I usually start a project with a written PRD, a design, and a task breakdown, then build it with Laravel / PHP or Next.js / TypeScript, package it with Docker, and deploy it to a VPS.
 I also maintain an older PHP workshop system and sync data between it and the legacy branch databases.
@@ -18,16 +13,20 @@ I use Claude Code as part of my development workflow.
 
 ## 🧠 What I Build
 
-- **Business workflow apps.** Multi-step processes with roles, statuses, approvals, and audit trails (project intake → scoring → review → decision).
+- **Business workflow apps.** Multi-step processes with roles, statuses, approvals, and audit trails.
 - **Operational systems for branches.** Service orders, point of sale, purchasing, stock, cashier closing, and bank deposits, all scoped per branch.
-- **Mobile-first PWAs** for staff on the workshop floor, with an offline queue for unstable connections.
-- **Data sync and integration.** Python scripts that read branch Microsoft Access databases and push changes to web APIs, plus Excel/PDF import and export.
-- **Automation.** Scheduled jobs and browser automation (Playwright), and a WhatsApp assistant that answers from its own knowledge base (RAG) through an AI gateway.
+- **Mobile-first PWAs** for mechanics and customers, with offline support for unstable connections.
+- **Data sync and integration.** Python agents that read branch Microsoft Access databases and push changes to web APIs, plus Excel/PDF import and export.
+- **Automation and AI.** Scheduled jobs, browser automation with Playwright, and WhatsApp agents that answer from a knowledge base.
+
+<p align="center">
+  <img src="assets/architecture.svg" width="100%" alt="Branch Access databases sync through Python agents into PHP and Laravel APIs that feed Web Bengkel, the Cek Mekanik PWA and the customer PWA. WhatsApp messages flow through a gateway into AI agents and admin dashboards." />
+</p>
 
 ## 🛠️ Tech I Work With
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,nextjs,react,tailwind,mysql,postgres,sqlite,prisma,py,nodejs,docker,nginx,git&perline=15" alt="Tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,nextjs,react,vue,tailwind,mysql,postgres,sqlite,prisma,redis,py,nodejs,docker,nginx,githubactions,git&perline=9" alt="PHP, Laravel, TypeScript, Next.js, React, Vue, Tailwind, MySQL, PostgreSQL, SQLite, Prisma, Redis, Python, Node.js, Docker, Nginx, GitHub Actions, Git" />
 </p>
 
 | Area | Technologies |
@@ -37,47 +36,22 @@ I use Claude Code as part of my development workflow.
 | **Frontend** | Next.js (App Router) · React · Tailwind CSS · Alpine.js · Recharts |
 | **Data** | MySQL · PostgreSQL · SQLite · Prisma ORM · Microsoft Access (read via pyodbc) |
 | **Testing** | PHPUnit · Pest · Vitest · Playwright (E2E and browser automation) |
-| **Infra** | Docker / Docker Compose · Nginx · Supervisor · VPS deployment with shell scripts |
-| **Integrations** | Auth.js · Laravel Socialite · WhatsApp gateway webhooks · OpenAI-compatible AI gateway · PhpSpreadsheet / Laravel Excel / ExcelJS · FPDF / Dompdf |
+| **Infra** | Docker / Docker Compose · Nginx · Supervisor · VPS deployment with shell scripts and GitHub Actions |
+| **Integrations** | Auth.js · Laravel Socialite · WhatsApp gateway webhooks · OpenRouter / OpenAI-compatible APIs · PhpSpreadsheet / Laravel Excel / ExcelJS · FPDF / Dompdf |
+| **Team projects** | Hono · Drizzle ORM · BullMQ + Redis · Vue 3 · shadcn-vue |
 
 ## 🚀 Featured Projects
 
-> Most of these are company-internal, so their repositories are private. Public repositories are linked.
+<p align="center">
+  <img src="assets/cards/priori-tech.svg" width="49%" alt="PrioriTech: IT project intake and prioritization" />
+  <img src="assets/cards/cek-mekanik.svg" width="49%" alt="Cek Mekanik: vehicle inspection PWA" />
+  <a href="https://github.com/rafiadli719/web-bengkel"><img src="assets/cards/web-bengkel.svg" width="49%" alt="Web Bengkel: workshop management system" /></a>
+  <img src="assets/cards/fitmotor-agent.svg" width="49%" alt="FIT MOTOR AI Agent: WhatsApp CRM agent" />
+  <img src="assets/cards/pwa-pelanggan.svg" width="49%" alt="Customer PWA: customer portal for the workshop" />
+  <img src="assets/cards/fb-video-scheduler.svg" width="49%" alt="FB Video Scheduler: scheduled video posting" />
+</p>
 
-### PrioriTech: IT project intake & prioritization `private`
-
-Divisions submitted IT requests with no shared way to judge them, so priorities depended on opinion and decisions went undocumented.
-PrioriTech takes a request from intake through PMO scoring on weighted criteria and management review to a final decision.
-It has four roles, a configurable weight system, revision loops in both directions, a full audit log, a portfolio dashboard with charts, and Excel export.
-
-`Next.js` `React` `TypeScript` `Auth.js` `Prisma` `PostgreSQL` `Tailwind` `Recharts` `Vitest` `Playwright` `Docker`
-
-### Cek Mekanik: vehicle inspection PWA `private`
-
-Pre-service inspections used one hard-coded checklist for every bike and every service type.
-This monorepo adds a Laravel API and admin panel plus an installable Next.js PWA for mechanics.
-Each checklist is resolved from master data and a rule matrix, based on the motorcycle category and the service type.
-Data is scoped per branch, and submissions queue offline when the connection drops.
-A Python sync agent on the branch PCs sends service data from their Access databases.
-
-`Laravel` `Next.js` `PWA` `MySQL` `Nginx` `Docker Compose` `PHPUnit` `Playwright` `Python`
-
-### [Web Bengkel](https://github.com/rafiadli719/web-bengkel): workshop management system
-
-A large PHP system that runs the workshop: service registration and queues, work orders, warranty claims, point of sale, purchasing, stock transfers between branches, cashier finance, and reports.
-It also has role-based menu access, an integration with the Accurate Online accounting API, and a sync API fed from branch Access databases.
-My recent work here: end-to-end validation of each module, fixes for broken transaction flows, and query performance work (removing N+1 queries, adding pagination, rewriting slow report queries).
-
-`PHP` `MySQL` `JavaScript` `Python` `PhpSpreadsheet` `Dompdf`
-
-### FB Video Scheduler: scheduled video posting `private`
-
-This app removes the repetitive work of posting the same video to many Facebook groups by hand.
-Users manage groups and videos and schedule posts to several groups at once.
-The Laravel scheduler and queue workers run the posts through Playwright scripts, with a history of each attempt and whether it succeeded or failed.
-Everything runs in one Docker container managed by Supervisor.
-
-`Laravel` `Livewire` `Playwright` `Node.js` `MySQL` `FFmpeg` `Supervisor` `Docker`
+<p align="center"><sub><b>PUBLIC</b> repositories are linked · <b>PRIVATE</b> ones are company-internal · <b>TEAM</b> projects were built together with a teammate or vendor</sub></p>
 
 <details>
 <summary><b>More projects</b></summary>
@@ -107,6 +81,13 @@ Everything runs in one Docker container managed by Supervisor.
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafiadli719&bg_color=00000000&color=7d8590&title_color=7d8590&line=2f81f7&point=2f81f7&area=true&area_color=2f81f7&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafiadli719/rafiadli719/output/github-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/rafiadli719/rafiadli719/output/github-snake.svg" alt="Snake animation eating the contribution graph" />
+  </picture>
 </p>
 
 ## 🔗 Connect

@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Diagram: branch Access databases sync through Python agents into PHP and Laravel APIs that feed Web Bengkel, the Cek Mekanik PWA and the customer PWA; WhatsApp messages flow through a gateway into AI agents and admin dashboards.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#1e293b"/></pattern>
+  </defs>
+  <rect width="1200" height="520" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="18" fill="url(#dots)"/>
+  <text x="40" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e5e7eb">How my work fits together</text>
+  <text x="40" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#7dd3fc">DATA SYNC</text>
+  <text x="40" y="386" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#86efac">MESSAGING + AI</text>
+  <line x1="40" y1="356" x2="1160" y2="356" stroke="#1e293b" stroke-dasharray="4 6"/>
+  
+  <path id="a1" d="M240 148 H280" fill="none" stroke="#2f81f7" stroke-width="2" opacity="0.25"/>
+  <path d="M240 148 H280" fill="none" stroke="#2f81f7" stroke-width="2" stroke-dasharray="6 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#2f81f7">
+    <animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#a1"/></animateMotion>
+  </circle>
+  <path id="a2" d="M510 148 H550" fill="none" stroke="#2f81f7" stroke-width="2" opacity="0.25"/>
+  <path d="M510 148 H550" fill="none" stroke="#2f81f7" stroke-width="2" stroke-dasharray="6 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#2f81f7">
+    <animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#a2"/></animateMotion>
+  </circle>
+  <path id="a3" d="M800 148 C840 148 820 108 860 108" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.25"/>
+  <path d="M800 148 C840 148 820 108 860 108" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="6 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#22d3ee">
+    <animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#a3"/></animateMotion>
+  </circle>
+  <path id="a4" d="M800 148 C840 148 820 198 860 198" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.25"/>
+  <path d="M800 148 C840 148 820 198 860 198" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="6 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#22d3ee">
+    <animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#a4"/></animateMotion>
+  </circle>
+  <path id="a5" d="M800 148 C840 148 820 288 860 288" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.25"/>
+  <path d="M800 148 C840 148 820 288 860 288" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="6 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#22d3ee">
+    <animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#a5"/></animateMotion>
+  </circle>
+  <path id="b1" d="M240 438 H280" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.25"/>
+  <path d="M240 438 H280" fill="none" stroke="#22c55e" stroke-width="2" stroke-dasharray="6 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#22c55e">
+    <animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#b1"/></animateMotion>
+  </circle>
+  <path id="b2" d="M510 438 H550" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.25"/>
+  <path d="M510 438 H550" fill="none" stroke="#22c55e" stroke-width="2" stroke-dasharray="6 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#22c55e">
+    <animateMotion dur="1.6s" repeatCount="indefinite"><mpath href="#b2"/></animateMotion>
+  </circle>
+  <path id="b3" d="M800 438 H860" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.25"/>
+  <path d="M800 438 H860" fill="none" stroke="#22c55e" stroke-width="2" stroke-dasharray="6 10" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle r="5" fill="#22c55e">
+    <animateMotion dur="1.8s" repeatCount="indefinite"><mpath href="#b3"/></animateMotion>
+  </circle>
+  
+  <g>
+    <rect x="40" y="110" width="200" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="62" cy="138" r="6" fill="#f97316"/>
+    <circle cx="62" cy="138" r="6" fill="#f97316" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="80" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">Branch PCs</text>
+    <text x="80" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">MS Access databases</text>
+  </g>
+  <g>
+    <rect x="280" y="110" width="230" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="302" cy="138" r="6" fill="#eab308"/>
+    <circle cx="302" cy="138" r="6" fill="#eab308" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="320" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">Python sync</text>
+    <text x="320" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">change tracking · retry</text>
+  </g>
+  <g>
+    <rect x="550" y="110" width="250" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="572" cy="138" r="6" fill="#2f81f7"/>
+    <circle cx="572" cy="138" r="6" fill="#2f81f7" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="590" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">Sync APIs</text>
+    <text x="590" y="167" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">PHP · Laravel · MySQL</text>
+  </g>
+  <g>
+    <rect x="860" y="70" width="300" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="882" cy="98" r="6" fill="#22d3ee"/>
+    <circle cx="882" cy="98" r="6" fill="#22d3ee" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="900" y="103" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">Web Bengkel</text>
+    <text x="900" y="127" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">service · POS · stock · finance</text>
+  </g>
+  <g>
+    <rect x="860" y="160" width="300" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="882" cy="188" r="6" fill="#22d3ee"/>
+    <circle cx="882" cy="188" r="6" fill="#22d3ee" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="900" y="193" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">Cek Mekanik PWA</text>
+    <text x="900" y="217" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">inspection checklists</text>
+  </g>
+  <g>
+    <rect x="860" y="250" width="300" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="882" cy="278" r="6" fill="#22d3ee"/>
+    <circle cx="882" cy="278" r="6" fill="#22d3ee" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="900" y="283" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">Customer PWA</text>
+    <text x="900" y="307" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">booking · promo · history</text>
+  </g>
+  <g>
+    <rect x="40" y="400" width="200" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="62" cy="428" r="6" fill="#22c55e"/>
+    <circle cx="62" cy="428" r="6" fill="#22c55e" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="80" y="433" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">Customers</text>
+    <text x="80" y="457" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">chatting on WhatsApp</text>
+  </g>
+  <g>
+    <rect x="280" y="400" width="230" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="302" cy="428" r="6" fill="#22c55e"/>
+    <circle cx="302" cy="428" r="6" fill="#22c55e" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="320" y="433" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">WA gateway</text>
+    <text x="320" y="457" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">signed webhooks</text>
+  </g>
+  <g>
+    <rect x="550" y="400" width="250" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="572" cy="428" r="6" fill="#22c55e"/>
+    <circle cx="572" cy="428" r="6" fill="#22c55e" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="590" y="433" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">AI agents</text>
+    <text x="590" y="457" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">RAG · OpenRouter · queues</text>
+  </g>
+  <g>
+    <rect x="860" y="400" width="300" height="76" rx="12" fill="#111827" stroke="#1f2a44"/>
+    <circle cx="882" cy="428" r="6" fill="#22c55e"/>
+    <circle cx="882" cy="428" r="6" fill="#22c55e" opacity="0.4">
+      <animate attributeName="r" values="6;12;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="900" y="433" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#e5e7eb">Admin dashboards</text>
+    <text x="900" y="457" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#94a3b8">settings · monitoring</text>
+  </g>
+</svg>
