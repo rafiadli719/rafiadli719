@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="FB Video Scheduler: Scheduled video posting. Schedules one video to many Facebook groups at once. The Laravel scheduler and queue workers drive Playwright scripts, and every attempt is logged as success or failure.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-600" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#ec4899" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ec4899" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ec4899" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1200 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.08" cy="0.1" r="0.6"><stop offset="0" stop-color="#ec4899" stop-opacity="0.22"/><stop offset="1" stop-color="#ec4899" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="598" height="258" rx="16" fill="url(#bg)" stroke="#1f2a44" stroke-width="1.5"/>
+  <rect x="1" y="1" width="598" height="258" rx="16" fill="url(#glow)"/>
+  <rect x="1" y="1" width="598" height="258" rx="16" fill="none" stroke="url(#shine)" stroke-width="1.5"/>
+
+  <rect x="32" y="30" width="44" height="44" rx="12" fill="#ec4899" opacity="0.16"/>
+  <rect x="32" y="30" width="44" height="44" rx="12" fill="none" stroke="#ec4899" stroke-opacity="0.6"/>
+  <text x="54" y="58" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#ec4899">FB</text>
+  <text x="92" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#e5e7eb">FB Video Scheduler</text>
+  <text x="92" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">Scheduled video posting</text>
+
+  <rect x="490" y="32" width="78" height="24" rx="12" fill="#1f2937" stroke="#9ca3af" stroke-opacity="0.35"/>
+  <text x="529.0" y="48" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#9ca3af">PRIVATE</text>
+
+  <text x="32" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">Schedules one video to many Facebook groups at once. The Laravel</text><text x="32" y="147" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">scheduler and queue workers drive Playwright scripts, and every</text><text x="32" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#cbd5e1">attempt is logged as success or failure.</text>
+  <rect x="32" y="206" width="68.4" height="26" rx="13" fill="#111c33" stroke="#23324f"/><text x="66.2" y="223" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9fb4d9">Laravel</text><rect x="107.4" y="206" width="75.6" height="26" rx="13" fill="#111c33" stroke="#23324f"/><text x="145.2" y="223" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9fb4d9">Livewire</text><rect x="190.0" y="206" width="90.0" height="26" rx="13" fill="#111c33" stroke="#23324f"/><text x="235.0" y="223" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9fb4d9">Playwright</text><rect x="287.0" y="206" width="68.4" height="26" rx="13" fill="#111c33" stroke="#23324f"/><text x="321.2" y="223" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9fb4d9">Node.js</text><rect x="362.4" y="206" width="61.2" height="26" rx="13" fill="#111c33" stroke="#23324f"/><text x="393.0" y="223" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9fb4d9">FFmpeg</text><rect x="430.59999999999997" y="206" width="61.2" height="26" rx="13" fill="#111c33" stroke="#23324f"/><text x="461.2" y="223" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#9fb4d9">Docker</text>
+</svg>
