@@ -2,16 +2,16 @@
   <img src="assets/banner.svg" width="100%" alt="Rafi Adli Pradiansyah — builds internal web apps, PWAs, data sync, and WhatsApp AI agents" />
 </p>
 
-## 👋 About
+## About
 
-Most of my repositories are internal tools for **FIT MOTOR**, a multi-branch motorcycle workshop, built around problems the team runs into every day:
+Most of my repositories are internal tools for **FIT DIGITAL**, a multi-branch motorcycle workshop, built around problems the team runs into every day:
 branch cashiers closing out their day, mechanics inspecting a motorcycle before a service, customer service staff identifying a customer's bike type, customers booking a service, divisions requesting work from IT.
 
 I usually start a project with a written PRD, a design, and a task breakdown, then build it with Laravel / PHP or Next.js / TypeScript, package it with Docker, and deploy it to a VPS.
 I also maintain an older PHP workshop system and sync data between it and the legacy branch databases.
 I use Claude Code as part of my development workflow.
 
-## 🧠 What I Build
+## What I Build
 
 - **Business workflow apps.** Multi-step processes with roles, statuses, approvals, and audit trails.
 - **Operational systems for branches.** Service orders, point of sale, purchasing, stock, cashier closing, and bank deposits, all scoped per branch.
@@ -23,7 +23,7 @@ I use Claude Code as part of my development workflow.
   <img src="assets/architecture.svg" width="100%" alt="Branch Access databases sync through Python agents into PHP and Laravel APIs that feed Web Bengkel, the Cek Mekanik PWA and the customer PWA. WhatsApp messages flow through a gateway into AI agents and admin dashboards." />
 </p>
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,ts,nextjs,react,vue,tailwind,mysql,postgres,sqlite,prisma,redis,py,nodejs,docker,nginx,githubactions,git&perline=9" alt="PHP, Laravel, TypeScript, Next.js, React, Vue, Tailwind, MySQL, PostgreSQL, SQLite, Prisma, Redis, Python, Node.js, Docker, Nginx, GitHub Actions, Git" />
@@ -40,13 +40,13 @@ I use Claude Code as part of my development workflow.
 | **Integrations** | Auth.js · Laravel Socialite · WhatsApp gateway webhooks · OpenRouter / OpenAI-compatible APIs · PhpSpreadsheet / Laravel Excel / ExcelJS · FPDF / Dompdf |
 | **Team projects** | Hono · Drizzle ORM · BullMQ + Redis · Vue 3 · shadcn-vue |
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <img src="assets/cards/priori-tech.svg" width="49%" alt="PrioriTech: IT project intake and prioritization" />
   <img src="assets/cards/cek-mekanik.svg" width="49%" alt="Cek Mekanik: vehicle inspection PWA" />
   <a href="https://github.com/rafiadli719/web-bengkel"><img src="assets/cards/web-bengkel.svg" width="49%" alt="Web Bengkel: workshop management system" /></a>
-  <img src="assets/cards/fitmotor-agent.svg" width="49%" alt="FIT MOTOR AI Agent: WhatsApp CRM agent" />
+  <img src="assets/cards/fitmotor-agent.svg" width="49%" alt="FIT DIGITAL AI Agent: WhatsApp CRM agent" />
   <img src="assets/cards/pwa-pelanggan.svg" width="49%" alt="Customer PWA: customer portal for the workshop" />
   <img src="assets/cards/fb-video-scheduler.svg" width="49%" alt="FB Video Scheduler: scheduled video posting" />
 </p>
@@ -66,13 +66,13 @@ I use Claude Code as part of my development workflow.
 
 </details>
 
-## 📚 Currently Working On
+## Currently Working On
 
 - **RAFI-Agent** `private`: a personal WhatsApp assistant (Next.js + Prisma) that answers IT troubleshooting questions from a knowledge base using embedding search, and auto-replies when I'm busy. Early stage.
 - **Web Bengkel**: module-by-module end-to-end validation, bug fixes, and performance work.
 - **Cek Mekanik**: inspection history, an operations dashboard for admins, and sync packages for each branch.
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafiadli719&show_icons=true&hide=stars&hide_border=true&theme=transparent&title_color=2f81f7&icon_color=2f81f7" alt="GitHub stats" />
@@ -90,7 +90,7 @@ I use Claude Code as part of my development workflow.
   </picture>
 </p>
 
-## 🔗 Connect
+## Connect
 
 <p>
   <a href="https://github.com/rafiadli719"><img src="https://img.shields.io/badge/GitHub-rafiadli719-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
