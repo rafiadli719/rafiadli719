@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Rafi Adli Pradiansyah's contribution graph: 129 contributions in the last 31 days">
+  <style>
+    .title { font: 600 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .tick { font: 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .axis { font: 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .grid { stroke: #1f2a37; stroke-width: 1; stroke-dasharray: 3 4; }
+    .line { fill: none; stroke: #1f6feb; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 4000; stroke-dashoffset: 4000; animation: draw 2.2s ease-out forwards; }
+    .area { fill: url(#fade); opacity: 0; animation: fade 1s ease-out 1.4s forwards; }
+    .pt { fill: #58a6ff; stroke: #0d1117; stroke-width: 2; opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes pop { 0% { opacity: 0; transform: scale(0); } 70% { opacity: 1; transform: scale(1.4); } 100% { opacity: 1; transform: scale(1); } }
+  </style>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f6feb" stop-opacity="0.28"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="600" y="42" text-anchor="middle" class="title">Rafi Adli Pradiansyah's Contribution Graph</text>
+  <line x1="84" x2="1164" y1="344" y2="344" class="grid"/>
+  <text x="72" y="348" text-anchor="end" class="tick">0</text>
+  <line x1="84" x2="1164" y1="305.7142857142857" y2="305.7142857142857" class="grid"/>
+  <text x="72" y="309.7142857142857" text-anchor="end" class="tick">5</text>
+  <line x1="84" x2="1164" y1="267.42857142857144" y2="267.42857142857144" class="grid"/>
+  <text x="72" y="271.42857142857144" text-anchor="end" class="tick">10</text>
+  <line x1="84" x2="1164" y1="229.14285714285714" y2="229.14285714285714" class="grid"/>
+  <text x="72" y="233.14285714285714" text-anchor="end" class="tick">15</text>
+  <line x1="84" x2="1164" y1="190.85714285714286" y2="190.85714285714286" class="grid"/>
+  <text x="72" y="194.85714285714286" text-anchor="end" class="tick">20</text>
+  <line x1="84" x2="1164" y1="152.57142857142858" y2="152.57142857142858" class="grid"/>
+  <text x="72" y="156.57142857142858" text-anchor="end" class="tick">25</text>
+  <line x1="84" x2="1164" y1="114.28571428571428" y2="114.28571428571428" class="grid"/>
+  <text x="72" y="118.28571428571428" text-anchor="end" class="tick">30</text>
+  <line x1="84" x2="1164" y1="76" y2="76" class="grid"/>
+  <text x="72" y="80" text-anchor="end" class="tick">35</text>
+  <line x1="84" x2="84" y1="76" y2="344" class="grid"/>
+  <text x="84" y="366" text-anchor="middle" class="tick">3</text>
+  <line x1="120" x2="120" y1="76" y2="344" class="grid"/>
+  <text x="120" y="366" text-anchor="middle" class="tick">4</text>
+  <line x1="156" x2="156" y1="76" y2="344" class="grid"/>
+  <text x="156" y="366" text-anchor="middle" class="tick">5</text>
+  <line x1="192" x2="192" y1="76" y2="344" class="grid"/>
+  <text x="192" y="366" text-anchor="middle" class="tick">6</text>
+  <line x1="228" x2="228" y1="76" y2="344" class="grid"/>
+  <text x="228" y="366" text-anchor="middle" class="tick">7</text>
+  <line x1="264" x2="264" y1="76" y2="344" class="grid"/>
+  <text x="264" y="366" text-anchor="middle" class="tick">8</text>
+  <line x1="300" x2="300" y1="76" y2="344" class="grid"/>
+  <text x="300" y="366" text-anchor="middle" class="tick">9</text>
+  <line x1="336" x2="336" y1="76" y2="344" class="grid"/>
+  <text x="336" y="366" text-anchor="middle" class="tick">10</text>
+  <line x1="372" x2="372" y1="76" y2="344" class="grid"/>
+  <text x="372" y="366" text-anchor="middle" class="tick">11</text>
+  <line x1="408" x2="408" y1="76" y2="344" class="grid"/>
+  <text x="408" y="366" text-anchor="middle" class="tick">12</text>
+  <line x1="444" x2="444" y1="76" y2="344" class="grid"/>
+  <text x="444" y="366" text-anchor="middle" class="tick">13</text>
+  <line x1="480" x2="480" y1="76" y2="344" class="grid"/>
+  <text x="480" y="366" text-anchor="middle" class="tick">14</text>
+  <line x1="516" x2="516" y1="76" y2="344" class="grid"/>
+  <text x="516" y="366" text-anchor="middle" class="tick">15</text>
+  <line x1="552" x2="552" y1="76" y2="344" class="grid"/>
+  <text x="552" y="366" text-anchor="middle" class="tick">16</text>
+  <line x1="588" x2="588" y1="76" y2="344" class="grid"/>
+  <text x="588" y="366" text-anchor="middle" class="tick">17</text>
+  <line x1="624" x2="624" y1="76" y2="344" class="grid"/>
+  <text x="624" y="366" text-anchor="middle" class="tick">18</text>
+  <line x1="660" x2="660" y1="76" y2="344" class="grid"/>
+  <text x="660" y="366" text-anchor="middle" class="tick">19</text>
+  <line x1="696" x2="696" y1="76" y2="344" class="grid"/>
+  <text x="696" y="366" text-anchor="middle" class="tick">20</text>
+  <line x1="732" x2="732" y1="76" y2="344" class="grid"/>
+  <text x="732" y="366" text-anchor="middle" class="tick">21</text>
+  <line x1="768" x2="768" y1="76" y2="344" class="grid"/>
+  <text x="768" y="366" text-anchor="middle" class="tick">22</text>
+  <line x1="804" x2="804" y1="76" y2="344" class="grid"/>
+  <text x="804" y="366" text-anchor="middle" class="tick">23</text>
+  <line x1="840" x2="840" y1="76" y2="344" class="grid"/>
+  <text x="840" y="366" text-anchor="middle" class="tick">24</text>
+  <line x1="876" x2="876" y1="76" y2="344" class="grid"/>
+  <text x="876" y="366" text-anchor="middle" class="tick">25</text>
+  <line x1="912" x2="912" y1="76" y2="344" class="grid"/>
+  <text x="912" y="366" text-anchor="middle" class="tick">26</text>
+  <line x1="948" x2="948" y1="76" y2="344" class="grid"/>
+  <text x="948" y="366" text-anchor="middle" class="tick">27</text>
+  <line x1="984" x2="984" y1="76" y2="344" class="grid"/>
+  <text x="984" y="366" text-anchor="middle" class="tick">28</text>
+  <line x1="1020" x2="1020" y1="76" y2="344" class="grid"/>
+  <text x="1020" y="366" text-anchor="middle" class="tick">29</text>
+  <line x1="1056" x2="1056" y1="76" y2="344" class="grid"/>
+  <text x="1056" y="366" text-anchor="middle" class="tick">30</text>
+  <line x1="1092" x2="1092" y1="76" y2="344" class="grid"/>
+  <text x="1092" y="366" text-anchor="middle" class="tick">1</text>
+  <line x1="1128" x2="1128" y1="76" y2="344" class="grid"/>
+  <text x="1128" y="366" text-anchor="middle" class="tick">2</text>
+  <line x1="1164" x2="1164" y1="76" y2="344" class="grid"/>
+  <text x="1164" y="366" text-anchor="middle" class="tick">3</text>
+  <path class="area" d="M84,313.37142857142857 C90.0,318.5 108.0,338.9 120.0,344.0 C132.0,344.0 144.0,344.0 156.0,344.0 C168.0,344.0 180.0,344.0 192.0,344.0 C204.0,344.0 216.0,344.0 228.0,344.0 C240.0,342.7 252.0,336.3 264.0,336.3 C276.0,336.3 288.0,342.7 300.0,344.0 C312.0,344.0 324.0,344.0 336.0,344.0 C348.0,344.0 360.0,344.0 372.0,344.0 C384.0,344.0 396.0,344.0 408.0,344.0 C420.0,344.0 432.0,344.0 444.0,344.0 C456.0,342.7 468.0,336.3 480.0,336.3 C492.0,336.3 504.0,342.7 516.0,344.0 C528.0,344.0 540.0,344.0 552.0,344.0 C564.0,344.0 576.0,344.0 588.0,344.0 C600.0,338.9 612.0,315.9 624.0,313.4 C636.0,310.8 648.0,330.0 660.0,328.7 C672.0,327.4 684.0,305.7 696.0,305.7 C708.0,305.7 720.0,324.9 732.0,328.7 C744.0,332.5 756.0,326.1 768.0,328.7 C780.0,331.2 792.0,344.0 804.0,344.0 C816.0,342.7 828.0,324.9 840.0,321.0 C852.0,317.2 864.0,331.2 876.0,321.0 C888.0,310.8 900.0,281.5 912.0,259.8 C924.0,238.1 936.0,185.8 948.0,190.9 C960.0,196.0 972.0,293.0 984.0,290.4 C996.0,287.8 1008.0,206.2 1020.0,175.5 C1032.0,144.9 1044.0,81.1 1056.0,106.6 C1068.0,132.2 1080.0,291.7 1092.0,328.7 C1104.0,344.0 1116.0,335.1 1128.0,328.7 C1140.0,322.3 1158.0,296.8 1164.0,290.4 L1164.0,344 L84,344 Z"/>
+  <path class="line" d="M84,313.37142857142857 C90.0,318.5 108.0,338.9 120.0,344.0 C132.0,344.0 144.0,344.0 156.0,344.0 C168.0,344.0 180.0,344.0 192.0,344.0 C204.0,344.0 216.0,344.0 228.0,344.0 C240.0,342.7 252.0,336.3 264.0,336.3 C276.0,336.3 288.0,342.7 300.0,344.0 C312.0,344.0 324.0,344.0 336.0,344.0 C348.0,344.0 360.0,344.0 372.0,344.0 C384.0,344.0 396.0,344.0 408.0,344.0 C420.0,344.0 432.0,344.0 444.0,344.0 C456.0,342.7 468.0,336.3 480.0,336.3 C492.0,336.3 504.0,342.7 516.0,344.0 C528.0,344.0 540.0,344.0 552.0,344.0 C564.0,344.0 576.0,344.0 588.0,344.0 C600.0,338.9 612.0,315.9 624.0,313.4 C636.0,310.8 648.0,330.0 660.0,328.7 C672.0,327.4 684.0,305.7 696.0,305.7 C708.0,305.7 720.0,324.9 732.0,328.7 C744.0,332.5 756.0,326.1 768.0,328.7 C780.0,331.2 792.0,344.0 804.0,344.0 C816.0,342.7 828.0,324.9 840.0,321.0 C852.0,317.2 864.0,331.2 876.0,321.0 C888.0,310.8 900.0,281.5 912.0,259.8 C924.0,238.1 936.0,185.8 948.0,190.9 C960.0,196.0 972.0,293.0 984.0,290.4 C996.0,287.8 1008.0,206.2 1020.0,175.5 C1032.0,144.9 1044.0,81.1 1056.0,106.6 C1068.0,132.2 1080.0,291.7 1092.0,328.7 C1104.0,344.0 1116.0,335.1 1128.0,328.7 C1140.0,322.3 1158.0,296.8 1164.0,290.4"/>
+  <circle cx="84.0" cy="313.4" r="5" class="pt" style="animation-delay:0.30s"><title>2026-09-03: 4 contributions</title></circle><circle cx="120.0" cy="344.0" r="5" class="pt" style="animation-delay:0.35s"><title>2026-09-04: 0 contributions</title></circle><circle cx="156.0" cy="344.0" r="5" class="pt" style="animation-delay:0.40s"><title>2026-09-05: 0 contributions</title></circle><circle cx="192.0" cy="344.0" r="5" class="pt" style="animation-delay:0.45s"><title>2026-09-06: 0 contributions</title></circle><circle cx="228.0" cy="344.0" r="5" class="pt" style="animation-delay:0.51s"><title>2026-09-07: 0 contributions</title></circle><circle cx="264.0" cy="336.3" r="5" class="pt" style="animation-delay:0.56s"><title>2026-09-08: 1 contribution</title></circle><circle cx="300.0" cy="344.0" r="5" class="pt" style="animation-delay:0.61s"><title>2026-09-09: 0 contributions</title></circle><circle cx="336.0" cy="344.0" r="5" class="pt" style="animation-delay:0.66s"><title>2026-09-10: 0 contributions</title></circle><circle cx="372.0" cy="344.0" r="5" class="pt" style="animation-delay:0.71s"><title>2026-09-11: 0 contributions</title></circle><circle cx="408.0" cy="344.0" r="5" class="pt" style="animation-delay:0.76s"><title>2026-09-12: 0 contributions</title></circle><circle cx="444.0" cy="344.0" r="5" class="pt" style="animation-delay:0.82s"><title>2026-09-13: 0 contributions</title></circle><circle cx="480.0" cy="336.3" r="5" class="pt" style="animation-delay:0.87s"><title>2026-09-14: 1 contribution</title></circle><circle cx="516.0" cy="344.0" r="5" class="pt" style="animation-delay:0.92s"><title>2026-09-15: 0 contributions</title></circle><circle cx="552.0" cy="344.0" r="5" class="pt" style="animation-delay:0.97s"><title>2026-09-16: 0 contributions</title></circle><circle cx="588.0" cy="344.0" r="5" class="pt" style="animation-delay:1.02s"><title>2026-09-17: 0 contributions</title></circle><circle cx="624.0" cy="313.4" r="5" class="pt" style="animation-delay:1.07s"><title>2026-09-18: 4 contributions</title></circle><circle cx="660.0" cy="328.7" r="5" class="pt" style="animation-delay:1.13s"><title>2026-09-19: 2 contributions</title></circle><circle cx="696.0" cy="305.7" r="5" class="pt" style="animation-delay:1.18s"><title>2026-09-20: 5 contributions</title></circle><circle cx="732.0" cy="328.7" r="5" class="pt" style="animation-delay:1.23s"><title>2026-09-21: 2 contributions</title></circle><circle cx="768.0" cy="328.7" r="5" class="pt" style="animation-delay:1.28s"><title>2026-09-22: 2 contributions</title></circle><circle cx="804.0" cy="344.0" r="5" class="pt" style="animation-delay:1.33s"><title>2026-09-23: 0 contributions</title></circle><circle cx="840.0" cy="321.0" r="5" class="pt" style="animation-delay:1.38s"><title>2026-09-24: 3 contributions</title></circle><circle cx="876.0" cy="321.0" r="5" class="pt" style="animation-delay:1.44s"><title>2026-09-25: 3 contributions</title></circle><circle cx="912.0" cy="259.8" r="5" class="pt" style="animation-delay:1.49s"><title>2026-09-26: 11 contributions</title></circle><circle cx="948.0" cy="190.9" r="5" class="pt" style="animation-delay:1.54s"><title>2026-09-27: 20 contributions</title></circle><circle cx="984.0" cy="290.4" r="5" class="pt" style="animation-delay:1.59s"><title>2026-09-28: 7 contributions</title></circle><circle cx="1020.0" cy="175.5" r="5" class="pt" style="animation-delay:1.64s"><title>2026-09-29: 22 contributions</title></circle><circle cx="1056.0" cy="106.6" r="5" class="pt" style="animation-delay:1.69s"><title>2026-09-30: 31 contributions</title></circle><circle cx="1092.0" cy="328.7" r="5" class="pt" style="animation-delay:1.75s"><title>2026-10-01: 2 contributions</title></circle><circle cx="1128.0" cy="328.7" r="5" class="pt" style="animation-delay:1.80s"><title>2026-10-02: 2 contributions</title></circle><circle cx="1164.0" cy="290.4" r="5" class="pt" style="animation-delay:1.85s"><title>2026-10-03: 7 contributions</title></circle>
+  <text transform="translate(26 210) rotate(-90)" text-anchor="middle" class="axis">Contributions</text>
+  <text x="624" y="402" text-anchor="middle" class="axis">Days</text>
+</svg>
