@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Rafi Adli Pradiansyah's contribution graph: 100 contributions in the last 31 days">
+  <style>
+    .title { font: 600 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .tick { font: 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .axis { font: 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .grid { stroke: #1f2a37; stroke-width: 1; stroke-dasharray: 3 4; }
+    .line { fill: none; stroke: #1f6feb; stroke-width: 3.5; stroke-linecap: round; stroke-dasharray: 4000; stroke-dashoffset: 4000; animation: draw 2.2s ease-out forwards; }
+    .area { fill: url(#fade); opacity: 0; animation: fade 1s ease-out 1.4s forwards; }
+    .pt { fill: #58a6ff; stroke: #0d1117; stroke-width: 2; opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes pop { 0% { opacity: 0; transform: scale(0); } 70% { opacity: 1; transform: scale(1.4); } 100% { opacity: 1; transform: scale(1); } }
+  </style>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f6feb" stop-opacity="0.28"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="600" y="42" text-anchor="middle" class="title">Rafi Adli Pradiansyah's Contribution Graph</text>
+  <line x1="84" x2="1164" y1="344" y2="344" class="grid"/>
+  <text x="72" y="348" text-anchor="end" class="tick">0</text>
+  <line x1="84" x2="1164" y1="299.3333333333333" y2="299.3333333333333" class="grid"/>
+  <text x="72" y="303.3333333333333" text-anchor="end" class="tick">5</text>
+  <line x1="84" x2="1164" y1="254.66666666666669" y2="254.66666666666669" class="grid"/>
+  <text x="72" y="258.6666666666667" text-anchor="end" class="tick">10</text>
+  <line x1="84" x2="1164" y1="210" y2="210" class="grid"/>
+  <text x="72" y="214" text-anchor="end" class="tick">15</text>
+  <line x1="84" x2="1164" y1="165.33333333333334" y2="165.33333333333334" class="grid"/>
+  <text x="72" y="169.33333333333334" text-anchor="end" class="tick">20</text>
+  <line x1="84" x2="1164" y1="120.66666666666666" y2="120.66666666666666" class="grid"/>
+  <text x="72" y="124.66666666666666" text-anchor="end" class="tick">25</text>
+  <line x1="84" x2="1164" y1="76" y2="76" class="grid"/>
+  <text x="72" y="80" text-anchor="end" class="tick">30</text>
+  <line x1="84" x2="84" y1="76" y2="344" class="grid"/>
+  <text x="84" y="366" text-anchor="middle" class="tick">1</text>
+  <line x1="120" x2="120" y1="76" y2="344" class="grid"/>
+  <text x="120" y="366" text-anchor="middle" class="tick">2</text>
+  <line x1="156" x2="156" y1="76" y2="344" class="grid"/>
+  <text x="156" y="366" text-anchor="middle" class="tick">3</text>
+  <line x1="192" x2="192" y1="76" y2="344" class="grid"/>
+  <text x="192" y="366" text-anchor="middle" class="tick">4</text>
+  <line x1="228" x2="228" y1="76" y2="344" class="grid"/>
+  <text x="228" y="366" text-anchor="middle" class="tick">5</text>
+  <line x1="264" x2="264" y1="76" y2="344" class="grid"/>
+  <text x="264" y="366" text-anchor="middle" class="tick">6</text>
+  <line x1="300" x2="300" y1="76" y2="344" class="grid"/>
+  <text x="300" y="366" text-anchor="middle" class="tick">7</text>
+  <line x1="336" x2="336" y1="76" y2="344" class="grid"/>
+  <text x="336" y="366" text-anchor="middle" class="tick">8</text>
+  <line x1="372" x2="372" y1="76" y2="344" class="grid"/>
+  <text x="372" y="366" text-anchor="middle" class="tick">9</text>
+  <line x1="408" x2="408" y1="76" y2="344" class="grid"/>
+  <text x="408" y="366" text-anchor="middle" class="tick">10</text>
+  <line x1="444" x2="444" y1="76" y2="344" class="grid"/>
+  <text x="444" y="366" text-anchor="middle" class="tick">11</text>
+  <line x1="480" x2="480" y1="76" y2="344" class="grid"/>
+  <text x="480" y="366" text-anchor="middle" class="tick">12</text>
+  <line x1="516" x2="516" y1="76" y2="344" class="grid"/>
+  <text x="516" y="366" text-anchor="middle" class="tick">13</text>
+  <line x1="552" x2="552" y1="76" y2="344" class="grid"/>
+  <text x="552" y="366" text-anchor="middle" class="tick">14</text>
+  <line x1="588" x2="588" y1="76" y2="344" class="grid"/>
+  <text x="588" y="366" text-anchor="middle" class="tick">15</text>
+  <line x1="624" x2="624" y1="76" y2="344" class="grid"/>
+  <text x="624" y="366" text-anchor="middle" class="tick">16</text>
+  <line x1="660" x2="660" y1="76" y2="344" class="grid"/>
+  <text x="660" y="366" text-anchor="middle" class="tick">17</text>
+  <line x1="696" x2="696" y1="76" y2="344" class="grid"/>
+  <text x="696" y="366" text-anchor="middle" class="tick">18</text>
+  <line x1="732" x2="732" y1="76" y2="344" class="grid"/>
+  <text x="732" y="366" text-anchor="middle" class="tick">19</text>
+  <line x1="768" x2="768" y1="76" y2="344" class="grid"/>
+  <text x="768" y="366" text-anchor="middle" class="tick">20</text>
+  <line x1="804" x2="804" y1="76" y2="344" class="grid"/>
+  <text x="804" y="366" text-anchor="middle" class="tick">21</text>
+  <line x1="840" x2="840" y1="76" y2="344" class="grid"/>
+  <text x="840" y="366" text-anchor="middle" class="tick">22</text>
+  <line x1="876" x2="876" y1="76" y2="344" class="grid"/>
+  <text x="876" y="366" text-anchor="middle" class="tick">23</text>
+  <line x1="912" x2="912" y1="76" y2="344" class="grid"/>
+  <text x="912" y="366" text-anchor="middle" class="tick">24</text>
+  <line x1="948" x2="948" y1="76" y2="344" class="grid"/>
+  <text x="948" y="366" text-anchor="middle" class="tick">25</text>
+  <line x1="984" x2="984" y1="76" y2="344" class="grid"/>
+  <text x="984" y="366" text-anchor="middle" class="tick">26</text>
+  <line x1="1020" x2="1020" y1="76" y2="344" class="grid"/>
+  <text x="1020" y="366" text-anchor="middle" class="tick">27</text>
+  <line x1="1056" x2="1056" y1="76" y2="344" class="grid"/>
+  <text x="1056" y="366" text-anchor="middle" class="tick">28</text>
+  <line x1="1092" x2="1092" y1="76" y2="344" class="grid"/>
+  <text x="1092" y="366" text-anchor="middle" class="tick">29</text>
+  <line x1="1128" x2="1128" y1="76" y2="344" class="grid"/>
+  <text x="1128" y="366" text-anchor="middle" class="tick">30</text>
+  <line x1="1164" x2="1164" y1="76" y2="344" class="grid"/>
+  <text x="1164" y="366" text-anchor="middle" class="tick">31</text>
+  <path class="area" d="M84,326.1333333333333 C90.0,318.7 108.0,288.9 120.0,281.5 C132.0,274.0 144.0,280.0 156.0,281.5 C168.0,283.0 180.0,281.5 192.0,290.4 C204.0,299.3 216.0,326.1 228.0,335.1 C240.0,344.0 252.0,342.5 264.0,344.0 C276.0,344.0 288.0,344.0 300.0,344.0 C312.0,303.8 324.0,104.3 336.0,102.8 C348.0,101.3 360.0,296.4 372.0,335.1 C384.0,344.0 396.0,336.6 408.0,335.1 C420.0,333.6 432.0,324.6 444.0,326.1 C456.0,327.6 468.0,344.0 480.0,344.0 C492.0,336.6 504.0,288.9 516.0,281.5 C528.0,274.0 540.0,288.9 552.0,299.3 C564.0,309.8 576.0,344.0 588.0,344.0 C600.0,344.0 612.0,303.8 624.0,299.3 C636.0,294.9 648.0,309.8 660.0,317.2 C672.0,324.6 684.0,341.0 696.0,344.0 C708.0,344.0 720.0,338.0 732.0,335.1 C744.0,332.1 756.0,326.1 768.0,326.1 C780.0,326.1 792.0,335.1 804.0,335.1 C816.0,335.1 828.0,324.6 840.0,326.1 C852.0,327.6 864.0,344.0 876.0,344.0 C888.0,342.5 900.0,324.6 912.0,317.2 C924.0,309.8 936.0,303.8 948.0,299.3 C960.0,294.9 972.0,285.9 984.0,290.4 C996.0,294.9 1008.0,317.2 1020.0,326.1 C1032.0,335.1 1044.0,342.5 1056.0,344.0 C1068.0,344.0 1080.0,339.5 1092.0,335.1 C1104.0,330.6 1116.0,315.7 1128.0,317.2 C1140.0,318.7 1158.0,339.5 1164.0,344.0 L1164.0,344 L84,344 Z"/>
+  <path class="line" d="M84,326.1333333333333 C90.0,318.7 108.0,288.9 120.0,281.5 C132.0,274.0 144.0,280.0 156.0,281.5 C168.0,283.0 180.0,281.5 192.0,290.4 C204.0,299.3 216.0,326.1 228.0,335.1 C240.0,344.0 252.0,342.5 264.0,344.0 C276.0,344.0 288.0,344.0 300.0,344.0 C312.0,303.8 324.0,104.3 336.0,102.8 C348.0,101.3 360.0,296.4 372.0,335.1 C384.0,344.0 396.0,336.6 408.0,335.1 C420.0,333.6 432.0,324.6 444.0,326.1 C456.0,327.6 468.0,344.0 480.0,344.0 C492.0,336.6 504.0,288.9 516.0,281.5 C528.0,274.0 540.0,288.9 552.0,299.3 C564.0,309.8 576.0,344.0 588.0,344.0 C600.0,344.0 612.0,303.8 624.0,299.3 C636.0,294.9 648.0,309.8 660.0,317.2 C672.0,324.6 684.0,341.0 696.0,344.0 C708.0,344.0 720.0,338.0 732.0,335.1 C744.0,332.1 756.0,326.1 768.0,326.1 C780.0,326.1 792.0,335.1 804.0,335.1 C816.0,335.1 828.0,324.6 840.0,326.1 C852.0,327.6 864.0,344.0 876.0,344.0 C888.0,342.5 900.0,324.6 912.0,317.2 C924.0,309.8 936.0,303.8 948.0,299.3 C960.0,294.9 972.0,285.9 984.0,290.4 C996.0,294.9 1008.0,317.2 1020.0,326.1 C1032.0,335.1 1044.0,342.5 1056.0,344.0 C1068.0,344.0 1080.0,339.5 1092.0,335.1 C1104.0,330.6 1116.0,315.7 1128.0,317.2 C1140.0,318.7 1158.0,339.5 1164.0,344.0"/>
+  <circle cx="84.0" cy="326.1" r="5" class="pt" style="animation-delay:0.30s"><title>2026-10-01: 2 contributions</title></circle><circle cx="120.0" cy="281.5" r="5" class="pt" style="animation-delay:0.35s"><title>2026-10-02: 7 contributions</title></circle><circle cx="156.0" cy="281.5" r="5" class="pt" style="animation-delay:0.40s"><title>2026-10-03: 7 contributions</title></circle><circle cx="192.0" cy="290.4" r="5" class="pt" style="animation-delay:0.45s"><title>2026-10-04: 6 contributions</title></circle><circle cx="228.0" cy="335.1" r="5" class="pt" style="animation-delay:0.51s"><title>2026-10-05: 1 contribution</title></circle><circle cx="264.0" cy="344.0" r="5" class="pt" style="animation-delay:0.56s"><title>2026-10-06: 0 contributions</title></circle><circle cx="300.0" cy="344.0" r="5" class="pt" style="animation-delay:0.61s"><title>2026-10-07: 0 contributions</title></circle><circle cx="336.0" cy="102.8" r="5" class="pt" style="animation-delay:0.66s"><title>2026-10-08: 27 contributions</title></circle><circle cx="372.0" cy="335.1" r="5" class="pt" style="animation-delay:0.71s"><title>2026-10-09: 1 contribution</title></circle><circle cx="408.0" cy="335.1" r="5" class="pt" style="animation-delay:0.76s"><title>2026-10-10: 1 contribution</title></circle><circle cx="444.0" cy="326.1" r="5" class="pt" style="animation-delay:0.82s"><title>2026-10-11: 2 contributions</title></circle><circle cx="480.0" cy="344.0" r="5" class="pt" style="animation-delay:0.87s"><title>2026-10-12: 0 contributions</title></circle><circle cx="516.0" cy="281.5" r="5" class="pt" style="animation-delay:0.92s"><title>2026-10-13: 7 contributions</title></circle><circle cx="552.0" cy="299.3" r="5" class="pt" style="animation-delay:0.97s"><title>2026-10-14: 5 contributions</title></circle><circle cx="588.0" cy="344.0" r="5" class="pt" style="animation-delay:1.02s"><title>2026-10-15: 0 contributions</title></circle><circle cx="624.0" cy="299.3" r="5" class="pt" style="animation-delay:1.07s"><title>2026-10-16: 5 contributions</title></circle><circle cx="660.0" cy="317.2" r="5" class="pt" style="animation-delay:1.13s"><title>2026-10-17: 3 contributions</title></circle><circle cx="696.0" cy="344.0" r="5" class="pt" style="animation-delay:1.18s"><title>2026-10-18: 0 contributions</title></circle><circle cx="732.0" cy="335.1" r="5" class="pt" style="animation-delay:1.23s"><title>2026-10-19: 1 contribution</title></circle><circle cx="768.0" cy="326.1" r="5" class="pt" style="animation-delay:1.28s"><title>2026-10-20: 2 contributions</title></circle><circle cx="804.0" cy="335.1" r="5" class="pt" style="animation-delay:1.33s"><title>2026-10-21: 1 contribution</title></circle><circle cx="840.0" cy="326.1" r="5" class="pt" style="animation-delay:1.38s"><title>2026-10-22: 2 contributions</title></circle><circle cx="876.0" cy="344.0" r="5" class="pt" style="animation-delay:1.44s"><title>2026-10-23: 0 contributions</title></circle><circle cx="912.0" cy="317.2" r="5" class="pt" style="animation-delay:1.49s"><title>2026-10-24: 3 contributions</title></circle><circle cx="948.0" cy="299.3" r="5" class="pt" style="animation-delay:1.54s"><title>2026-10-25: 5 contributions</title></circle><circle cx="984.0" cy="290.4" r="5" class="pt" style="animation-delay:1.59s"><title>2026-10-26: 6 contributions</title></circle><circle cx="1020.0" cy="326.1" r="5" class="pt" style="animation-delay:1.64s"><title>2026-10-27: 2 contributions</title></circle><circle cx="1056.0" cy="344.0" r="5" class="pt" style="animation-delay:1.69s"><title>2026-10-28: 0 contributions</title></circle><circle cx="1092.0" cy="335.1" r="5" class="pt" style="animation-delay:1.75s"><title>2026-10-29: 1 contribution</title></circle><circle cx="1128.0" cy="317.2" r="5" class="pt" style="animation-delay:1.80s"><title>2026-10-30: 3 contributions</title></circle><circle cx="1164.0" cy="344.0" r="5" class="pt" style="animation-delay:1.85s"><title>2026-10-31: 0 contributions</title></circle>
+  <text transform="translate(26 210) rotate(-90)" text-anchor="middle" class="axis">Contributions</text>
+  <text x="624" y="402" text-anchor="middle" class="axis">Days</text>
+</svg>
